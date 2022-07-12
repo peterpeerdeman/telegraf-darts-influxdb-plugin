@@ -1,0 +1,4 @@
+darts==0.20.0
+numpy==1.22.4
+influxdb-client==1.30.0
+influx_line_protocol==0.1.4
